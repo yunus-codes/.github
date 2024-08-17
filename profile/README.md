@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/yunus-codes/.github/main/github-banner.png" alt="Brand"/>
+<img src="https://raw.githubusercontent.com/yunus-codes/.github/main/banner.jpg" alt="Brand"/>
